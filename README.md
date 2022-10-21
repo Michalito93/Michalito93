@@ -1,3 +1,5 @@
+[<img src="https://github.com/Michalito93/Michalito93/blob/main/baner.jpg">
+
 ### Hi there 👋! I'm Michał
 
 <!--
