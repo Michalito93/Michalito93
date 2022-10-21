@@ -1,5 +1,4 @@
-<img src="https://github.com/Michalito93/Michalito93/blob/main/F4P9W2E0D7MPQNJN.gif">
-
+<div align="center"><img src="https://github.com/Michalito93/Michalito93/blob/main/F4P9W2E0D7MPQNJN.gif"></div>
 
 <!--
 **Michalito93/Michalito93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
