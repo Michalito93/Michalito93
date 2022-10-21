@@ -1,6 +1,5 @@
-<img src="https://github.com/Michalito93/Michalito93/blob/main/baner.jpg">
+<img src="https://github.com/Michalito93/Michalito93/blob/main/baner1.jpg">
 
-### Hi there 👋! I'm Michał
 
 <!--
 **Michalito93/Michalito93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
